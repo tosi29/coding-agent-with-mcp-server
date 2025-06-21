@@ -9,7 +9,8 @@
     "preview": "vite preview",
     "search:react": "npx tsx scripts/google-react-search.ts",
     "search:playwright": "npx tsx scripts/playwright-google-search.ts",
-    "search:demo": "npx tsx scripts/google-react-search.ts"
+    "search:demo": "npx tsx scripts/demo.ts",
+    "demo": "npx tsx scripts/demo.ts"
   },
   "keywords": [],
   "author": "",
